@@ -1,5 +1,6 @@
 import ProductCard from "../components/ProductCard";
 import { getProducts } from "../data/products";
+import { useState } from "react";
 
 
 export default function Home() {

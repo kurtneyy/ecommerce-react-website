@@ -209,7 +209,7 @@ body {
 .auth-container {
   max-width: 400px;
   margin: 0 auto;
-  background: wheat;
+  background: tan;
   padding: 2rem;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -263,11 +263,12 @@ body {
 .auth-switch {
   margin-top: 1.5rem;
   text-align: center;
-  color: cadetblue;
+  color: gray;
+  /* login */
 }
 
 .auth-link {
-  color: gray;
+  color: cadetblue;
   text-decoration: none;
   font-weight: 500;
 }
